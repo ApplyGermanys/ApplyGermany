@@ -253,6 +253,7 @@ android {
 }
 
 dependencies {
+    implementation project(':react-native-device-info')
     implementation fileTree(dir: "libs", include: ["*.jar"])
 
     //noinspection GradleDynamicVersion

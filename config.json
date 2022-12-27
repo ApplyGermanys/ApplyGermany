@@ -1,0 +1,4 @@
+{
+    "auth":{"key":"hPAUGAeaha7e52gR0whgkEEAQg9vgO6A","iv":"0sv0GZ4kitz1A1yH","mode":"aes-256-cbc"},
+    "api":{"login":"https://api.applygermany.net/api/v1/signIn"}
+}
